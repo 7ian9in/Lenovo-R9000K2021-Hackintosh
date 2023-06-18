@@ -3,6 +3,13 @@
 https://github.com/mocehu/Lenovo-Legion-R9000X2021R-Hackintosh <br>
 https://github.com/zabdottler/Lenovo-Yoga-16S-hackintosh <br>
 
+#机型信息
+系统 macOS BigSur 11.7 <br>
+MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)<br>
+处理器 3.2 GHz AMD Ryzen 75800H<br>
+内存 32 GB 3200 MHz DDR4<br>
+图形卡 AMD Radeon Graphics 4 GB<br>
+
 # 注意事项
 1、本机型需要禁用一个xhci，详细操作参考上方链接，我禁用的是xhci 1 ，会造成蓝牙不可用。禁用xhci 0 会造成usb接口和键盘不能用，请谨慎操作！！！ <br>
 2、我自己加装了一块 980 1T SSD，原装海力士固态需要禁用，详细操作参考上方链接！ <br>
