@@ -6,7 +6,7 @@ https://github.com/zabdottler/Lenovo-Yoga-16S-hackintosh <br>
 # 机型信息
 系统 macOS BigSur 11.7 <br>
 MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)<br>
-处理器 3.2 GHz AMD Ryzen 75800H<br>
+处理器 3.2 GHz AMD Ryzen 7 5800H<br>
 内存 32 GB 3200 MHz DDR4<br>
 图形卡 AMD Radeon Graphics 4 GB<br>
 
